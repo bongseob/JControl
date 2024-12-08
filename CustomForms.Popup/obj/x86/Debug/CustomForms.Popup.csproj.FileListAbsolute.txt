@@ -1,0 +1,8 @@
+C:\JangDoc\우리은행\C#샘플\Aero\AeroSample\CustomForms.Popup\obj\x86\Debug\CustomForms.Popup.FormMessageBox.resources
+C:\JangDoc\우리은행\C#샘플\Aero\AeroSample\CustomForms.Popup\obj\x86\Debug\CustomForms.Popup.Properties.Resources.resources
+C:\JangDoc\우리은행\C#샘플\Aero\AeroSample\CustomForms.Popup\obj\x86\Debug\CustomForms.Popup.csproj.GenerateResource.cache
+C:\JangDoc\우리은행\C#샘플\Aero\AeroSample\CustomForms.Popup\obj\x86\Debug\CustomForms.Popup.csproj.CoreCompileInputs.cache
+C:\JangDoc\우리은행\C#샘플\Aero\AeroSample\CustomForms.Popup\bin\x86\Debug\CustomForms.Popup.dll
+C:\JangDoc\우리은행\C#샘플\Aero\AeroSample\CustomForms.Popup\bin\x86\Debug\CustomForms.Popup.pdb
+C:\JangDoc\우리은행\C#샘플\Aero\AeroSample\CustomForms.Popup\obj\x86\Debug\CustomForms.Popup.dll
+C:\JangDoc\우리은행\C#샘플\Aero\AeroSample\CustomForms.Popup\obj\x86\Debug\CustomForms.Popup.pdb
